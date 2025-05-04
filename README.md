@@ -6,7 +6,7 @@ Built using:
 - Streamlit App for interaction  
 
 ## 📦 Setup
-
+First Move to the project folder by using the command: cd "TITANIC SURVIVAL PREDICTION"
 ```bash
 pip install -r requirements.txt
 python src/train_model.py
